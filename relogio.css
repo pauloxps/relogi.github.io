@@ -1,0 +1,27 @@
+body{
+    background-color: #212121;
+    background-image: url(icones-do-relogio-configurados_1284-4371.webp);
+}
+
+h1 {
+    color: blueviolet;
+    margin-left: 35%;
+    margin-top: 50px;
+}
+
+
+.ckock-container {
+    text-shadow: 2px 2px #26ff00;
+    font-size: 4em;
+    text-align: center;
+    margin: 200px auto 0;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.ckock-container span {
+    padding: 20px;
+    background: black;
+    border-radius: 10px;
+}
+
